@@ -1,4 +1,4 @@
-# APDU and its protocol
+# APDU and friends
 My way to learn more about those protocols
 
 ### PAPER ABOUT EMV
