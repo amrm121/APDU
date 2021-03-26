@@ -6,4 +6,10 @@ My way to learn more about those protocols
 
 
 ### Other Protocols
-- [PS/SC](https://en.wikipedia.org/wiki/PC/SC)
+- [PS/SC wiki](https://en.wikipedia.org/wiki/PC/SC)
+
+
+### Interface Description Language
+
+- [ASN.1 wiki](https://en.wikipedia.org/wiki/ASN.1)
+- https://globalplatform.org/wp-content/uploads/2020/01/GPC_APDU_Transport_over_SPI-I2C_v1.0_PublicRelease.pdf
