@@ -19,3 +19,6 @@ My way to learn more about those protocols
 - [Defcon 21 - The Secret Life of SIM Cards](https://www.youtube.com/watch?v=31D94QOo2gY)
 - [[#OHM13] sim card exploitation - Karsten Nohl](https://www.youtube.com/watch?v=dB0MC9kaXew)
 - [Black Hat 2013 - Rooting SIM Cards](https://www.youtube.com/watch?v=scArc93XXWw)
+
+### Gits 
+- [Simhacks](https://simhacks.github.io/)
